@@ -2,7 +2,7 @@
 
 Projeto criado na Semana Spring React da escola DevSuperior.
 
-<img width="850px" src="./readme/readme-dsmeta.gif"/>
+<img width="950px" src="./readme/readme-dsmeta.gif"/>
 
 #
 
